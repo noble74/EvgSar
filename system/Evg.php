@@ -7,10 +7,8 @@
  */
 
 /**
- * Description of Core
+ * Description of Evg
  *
- * @author Noble74
+ * @author Noble
  */
-class Core {
-    //put your code here
-}
+class Evg extends Evg_Core{}
